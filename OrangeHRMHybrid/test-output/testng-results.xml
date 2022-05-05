@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-04T11:51:48Z" name="Default suite" finished-at="2022-05-04T11:52:15Z" duration-ms="27571">
+    <groups>
+    </groups>
+    <test started-at="2022-05-04T11:51:48Z" name="Default test" finished-at="2022-05-04T11:52:15Z" duration-ms="27571">
+      <class name="AdminPageTest.AdminPageFunctionality">
+        <test-method is-config="true" signature="setup()[pri:0, instance:AdminPageTest.AdminPageFunctionality@305ffe9e]" started-at="2022-05-04T11:51:48Z" name="setup" finished-at="2022-05-04T11:52:06Z" duration-ms="18141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateAdminPage()[pri:1, instance:AdminPageTest.AdminPageFunctionality@305ffe9e]" started-at="2022-05-04T11:52:06Z" name="validateAdminPage" finished-at="2022-05-04T11:52:06Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAdminPage -->
+        <test-method signature="createNewUser()[pri:2, instance:AdminPageTest.AdminPageFunctionality@305ffe9e]" started-at="2022-05-04T11:52:06Z" name="createNewUser" finished-at="2022-05-04T11:52:12Z" duration-ms="6715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method signature="deleteNewlyCreatedUser()[pri:4, instance:AdminPageTest.AdminPageFunctionality@305ffe9e]" started-at="2022-05-04T11:52:12Z" name="deleteNewlyCreatedUser" finished-at="2022-05-04T11:52:15Z" duration-ms="2420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteNewlyCreatedUser -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:AdminPageTest.AdminPageFunctionality@305ffe9e]" started-at="2022-05-04T11:52:15Z" name="teardown" finished-at="2022-05-04T11:52:15Z" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- AdminPageTest.AdminPageFunctionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
